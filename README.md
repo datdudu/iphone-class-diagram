@@ -14,3 +14,10 @@ Com base no vídeo de lançamento do iPhone conforme link abaixo, elabore em uma
 * Navegador na Internet: exibirPagina, adicionarNovaAba, atualizarPagina
 
 
+## Resultado
+
+- Diagrama simples com as interfaces mencionadas e resultado da implementação
+
+![](https://i.ibb.co/Yy0CYm6/diagram-Iphone.png)
+
+![](https://i.ibb.co/mtWCGNG/Resultado-Implementacao.png)
